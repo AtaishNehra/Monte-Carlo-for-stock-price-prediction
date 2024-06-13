@@ -1,6 +1,6 @@
 # Monte-Carlo-for-stock-price-prediction
 
-MSFT Stock Price Simulation and Risk Analysis
+MSFT Stock Price Simulation and Risk Analysis </br>
 Project Overview
 This project involves conducting Monte Carlo simulations on historical Microsoft (MSFT) stock data to predict future prices and calculate risk metrics such as Value at Risk (VaR) and Conditional Value at Risk (CVaR). The analysis aims to enhance investment decision-making and risk management strategies.
 
